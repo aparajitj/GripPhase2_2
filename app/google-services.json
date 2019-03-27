@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "681146336624",
+    "firebase_url": "https://grip-phase-2.firebaseio.com",
+    "project_id": "grip-phase-2",
+    "storage_bucket": "grip-phase-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681146336624:android:39bd4bbf6ac19eda",
+        "android_client_info": {
+          "package_name": "com.example.gripphase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681146336624-m07dk66hdi4l83a8d5ogj8l1ga9ofjb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAGMj2ISOgiJGJujkUyd7yiBpKnGqtzM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
